@@ -1,6 +1,6 @@
 # Clasificación de enfermedad coronaria con el conjunto de datos Cleveland (UCI)
 
-Código del Trabajo Fin de Máster de Álvaro Jiménez (Máster en Inteligencia Artificial, CEMP).
+Código del Trabajo Fin de Máster de Álvaro Jiménez (Máster en Aplicaciones de IA en Sanidad, CEMP).
 
 El trabajo desarrolla y evalúa modelos de predicción de enfermedad coronaria angiográfica (estenosis > 50 %) en los 303 pacientes de la Cleveland Clinic del repositorio UCI. Los compara con la probabilidad pretest de Diamond y Forrester (1979) y sigue la guía TRIPOD+AI.
 
